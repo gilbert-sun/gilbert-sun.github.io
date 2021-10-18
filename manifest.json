@@ -1035,7 +1035,7 @@
           "hash": "3vZi2ry+U7oGLExpHTMjpiHcBL5NfPieBy5cxGBr8Q0="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1044,7 +1044,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro2_1.html",
-          "hash": "XZ3TT+obzi7NQ8+g9AsGl8EinkUQLt1qK38YASqyGPk="
+          "hash": "yinjahqrxLPM+bwHdjiVyR+5J4PvefooVvDBu9tsJI8="
         }
       },
       "is_incremental": false,
@@ -1059,7 +1059,7 @@
           "hash": "P+uoWAJHB2+/BDfNFyvB5jlXl01KA08g83EU0Uo9G8k="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1071,7 +1071,7 @@
           "hash": "StIOl9U23HVh2Bs+sh//HgH/iY4Wb2yaZC2FvgIAjUU="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1092,7 +1092,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro4_1.html",
-          "hash": "ARyVK6VdwWeV67lEyyEK6nEUhb5qRHBfwtzj/AE7sQI="
+          "hash": "Sk6fhAgdQHlmTuRsst+TFChE5q0lHQd5y4qQGEdxoxo="
         }
       },
       "is_incremental": false,
@@ -1104,10 +1104,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro_1.html",
-          "hash": "sK/dmasshCaDs4UzViH3968v5NxGczyDH7ezIwejDdE="
+          "hash": "aJ0rPwux0NJKTTopbXcBj16VMfqDEilDEm8PwNYH5mk="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1439,7 +1439,7 @@
           "hash": "yFTwZMDZGzPojvrQEjmfj0Wvg6hccLVWe4GfrW+4bE0="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1468,7 +1468,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 10,
-          "skipped_file_count": 4
+          "skipped_file_count": 7
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
